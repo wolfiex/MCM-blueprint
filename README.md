@@ -9,6 +9,6 @@ To compare the difference between mechanisms, visit https://observablehq.com/@wo
 
 <img src='./plots/poster.png'></img>
 
-MCM comparison tool available at wacl-york.github.io/MCM-bluetooth/diff
+MCM comparison tool available at https://wacl-york.github.io/MCM-bluetooth/diff
 
 <img src='./plots/mcm3.1.0_vs_mcm3.3.1.png'></img>
