@@ -8,6 +8,7 @@ Work done as part of the PhD Thesis of Daniel Ellis at the Wolfson Atmospheric C
 
 
 ## Graph Comparison
-MCM comparison tool available at https://wacl-york.github.io/MCM-bluetooth/diff
+MCM comparison tool available at https://wacl-york.github.io/MCM-blueprint/web/diff/index.html
+
 #### Example plot MCM 3.1  vs  MCM 3.3.1
 <img src='./plots/mcm3.1.0_vs_mcm3.3.1.png'></img>
